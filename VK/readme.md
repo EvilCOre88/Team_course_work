@@ -1,2 +1,2 @@
 # VK
-VK modules
+Vkontakte integration module
